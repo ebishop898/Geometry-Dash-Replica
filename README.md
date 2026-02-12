@@ -6,6 +6,8 @@ A simple Geometry Dash–style game built using **Processing**. This project rec
 
 This game was developed over a **two-week period** as a **final project for CSC 103: Creative Computing**, focusing on applying creative coding techniques to interactive game design.
 
+To see photos and videos of this project in action, please visit the link: [here](https://www.behance.net/gallery/185950269/CSC-103-final-game-project)
+
 ## Features
 - Side-scrolling gameplay
 - Player jump mechanics
