@@ -1,8 +1,8 @@
 # Geometry Dash Replica (Processing)
 
-by **Emily Bishop**
+A simple Geometry Dash–style game built using **Processing**. This project recreates core gameplay mechanics from the original game, including player movement, obstacle collision, and level progression.
 
-A simple Geometry Dash–style game built using **Processing**. This project recreates core gameplay mechanics from the original game, including player movement, obstacle collision, and level progression, while serving as a hands-on exploration of game development concepts.
+This game was developed over a **two-week period** as a **final project for CSC 103: Creative Computing**, focusing on applying creative coding techniques to interactive game design.
 
 ## 🎮 Features
 - Side-scrolling gameplay
