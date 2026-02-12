@@ -6,7 +6,7 @@ A simple Geometry Dash–style game built using **Processing**. This project rec
 
 This game was developed over a **two-week period** as a **final project for CSC 103: Creative Computing**, focusing on applying creative coding techniques to interactive game design.
 
-## 🎮 Features
+## Features
 - Side-scrolling gameplay
 - Player jump mechanics
 - Obstacle generation and collision detection
@@ -14,10 +14,10 @@ This game was developed over a **two-week period** as a **final project for CSC 
 - Basic physics (gravity and velocity)
 - Custom visuals using Processing shapes
 
-## 🛠️ Built With
+## Built With
 - **Processing** (Java-based creative coding framework)
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Download and install **Processing** from:  
