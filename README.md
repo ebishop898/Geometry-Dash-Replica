@@ -27,3 +27,6 @@ This game was developed over a **two-week period** as a **final project for CSC 
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/geometry-dash-replica.git
+2. Open the project folder in Processing.
+3. Open the main .pde file (the file containing the setup() and draw() methods).
+4. Click the Run button in Processing to execute the program and play the game.
